@@ -1,4 +1,4 @@
-# Coursera_Daily_Selfie
+# Coursera Daily Selfie
 
 This was my final project for Programming Mobile Applications for Android Handheld Systems, Dr. Adam Porter,University of Maryland, College Park
 
